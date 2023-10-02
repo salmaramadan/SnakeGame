@@ -1,5 +1,5 @@
 # SnakeGame
-simple snake game by python
+#simple snake game by python
 import random
 import curses
 
